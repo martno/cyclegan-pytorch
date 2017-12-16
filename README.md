@@ -3,7 +3,7 @@ PyTorch CycleGAN
 
 PyTorch implementation of CycleGAN.
 
-Paper: https://arxiv.org/abs/1703.10593
+Paper: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks https://arxiv.org/abs/1703.10593
 
 Changes to the original paper:
 
