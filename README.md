@@ -41,9 +41,11 @@ Run
 ### Train
 
 Train with CUDA (recommended):
+
 `python3 train.py --dataset_a=horse2zebra/trainA --dataset_b=horse2zebra/trainB --use_cuda`
 
 Train without CUDA:
+
 `python3 train.py --dataset_a=horse2zebra/trainA --dataset_b=horse2zebra/trainB`
 
 
@@ -51,7 +53,7 @@ Train without CUDA:
 
 `python3 test.py --dataset_a=horse2zebra/testA --dataset_b=horse2zebra/testB`
 
-(add `--use_cuda` to evaluate on CUDA)
+(add `--use_cuda` to evaluate with CUDA)
 
 
 ### Show usage
