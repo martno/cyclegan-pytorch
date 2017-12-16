@@ -1,0 +1,5 @@
+numpy>=1.13.1
+scikit-image>=0.13.1
+tqdm>=4.15.0
+click>=6.7
+natural>=0.2.0
